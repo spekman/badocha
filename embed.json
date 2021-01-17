@@ -1,0 +1,34 @@
+{
+    "content": "toma aí krl",
+    "embed": {
+      "title": "COMANDOS",
+      "url": "https://discordapp.com",
+      "color": 3039330,
+      "footer": {
+        "text": "perdi"
+      },
+      "author": {
+        "name": "Xoxota TUBE ;3",
+        "url": "https://discordapp.com",
+        "icon_url": "https://cdn.discordapp.com/avatars/734160598371270707/88306662047e94dd1e61c5b5ad851dcf.webp?size=128"
+      },
+      "fields": [
+        {
+          "name": "imagem/gif fixo",
+          "value": "tingus, kirby, minecraft, roblox, bingus, joão gabriel, 2012, thiccaroni, floppa"
+      },
+        {
+          "name": "imagem/gif aleatorio",
+          "value": "gato, cachorro, titico, pikachu, abraça, pisca, carinho, astolfo, blingee"
+       },
+        {
+          "name": "especial!!!!",
+          "value": "flood, fodase, pussy, bado chan, KKKKKKKKKKKKKKKK"
+        },
+        {
+          "name": "link",
+          "value": "badocha, gustavo gamer, terraria"
+        }
+      ]
+    }
+}
